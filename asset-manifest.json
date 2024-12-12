@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-riya/static/css/main.a5ea138c.css",
+    "main.js": "/portfolio-riya/static/js/main.1da14047.js",
+    "static/js/488.599872df.chunk.js": "/portfolio-riya/static/js/488.599872df.chunk.js",
+    "index.html": "/portfolio-riya/index.html",
+    "main.a5ea138c.css.map": "/portfolio-riya/static/css/main.a5ea138c.css.map",
+    "main.1da14047.js.map": "/portfolio-riya/static/js/main.1da14047.js.map",
+    "488.599872df.chunk.js.map": "/portfolio-riya/static/js/488.599872df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5ea138c.css",
+    "static/js/main.1da14047.js"
+  ]
+}
