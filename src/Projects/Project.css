@@ -1,0 +1,16 @@
+.project-contents {
+    width: 80%;
+    margin: 0 auto;
+}
+.project-list {
+    display: flex;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+@media (max-width:912px) {
+    .project-list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

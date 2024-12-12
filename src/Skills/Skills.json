@@ -1,0 +1,30 @@
+{
+  "DesignTools": [
+    "Canva",
+    "Adobe XD",
+    "Adobe Photoshop",
+    "Illustrator",
+    "InDesign",
+    "Adobe Creative Suite"
+  ],
+  "Media Design": [
+    "Social Media Design",
+    "Print Media",
+    "Advertising",
+    "Digital Media"
+  ],
+  "UX/UI Tools": [
+    "Figma",
+    "Miro",
+    "POP",
+    "Lucidchart",
+    "Qualtrics",
+    "Optimal Workshop"
+  ],
+  "Project Management And Collaboration": [
+    "Trello",
+    "Scrum",
+    "Jira",
+    "Agile Methodologies"
+  ]
+}

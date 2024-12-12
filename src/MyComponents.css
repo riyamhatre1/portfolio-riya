@@ -1,0 +1,80 @@
+.heading {
+  font-size: 24px;
+  color: rgb(100, 100, 100);
+}
+.heading:hover {
+  color: rgb(33, 66, 119);
+}
+.skill-heading {
+  font-size: 20px;
+  text-decoration: underline;
+  color: rgb(108, 108, 108);
+}
+.skill-heading:hover {
+  color: rgb(61, 141, 198);
+}
+.skill-button {
+  border: 2px solid #214277;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: rgba(33, 66, 119, 1);
+  font-size: 16px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin: 2px 4px;
+  min-width: 80px;
+}
+.skill-button:hover {
+  background-color: rgba(33, 66, 119, 1);
+  color: #ffffff;
+}
+.education_container {
+  margin: 5px;
+  width: 400px;
+  text-align: center;
+  box-shadow: 5px 5px 20px #214277;
+}
+.education_container_img {
+  display: flex;
+  justify-content: center;
+}
+.education_container_img img{
+  max-height: 200px;
+  width: auto;
+}
+.project_card {
+  border: 2px solid rgb(108, 108, 108);
+  border-radius: 10px;
+  width: 350px;
+  padding: 20px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+.project_card:hover {
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+}
+.project_card h3 {
+  font-size: 20px;
+  color: #333;
+}
+
+.project_card img {
+  border-radius: 16px;
+}
+
+@media (max-width:912px) {
+  .education_container {
+    display: flex;
+    flex-direction: column;
+    width:80%;
+    min-width: 300px;
+  }
+  .education_container_img{
+    height: 80%;
+  }
+  .project_card {
+    width: 80%;
+    min-width: 300px;
+    margin: 10px auto;
+  }
+}

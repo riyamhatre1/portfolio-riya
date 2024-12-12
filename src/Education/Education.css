@@ -1,0 +1,13 @@
+.Education-content {
+    width: 70%;
+    margin: 0 auto;
+}
+.education {
+    display: inline-flex;
+}
+@media (max-width:912px) {
+    .education {
+        display: flex;
+        flex-direction: column;
+    }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cream Palette",
+    "img_url" : "./assets/projects/cream_palette.jpg",
+    "pdf_url" : "./assets/projects/cream_palette.pdf"
+  },
+  {
+    "name": "Dreamdrive An Edutech",
+    "img_url" : "./assets/projects/dreamdrive_edutech.jpg",
+    "pdf_url" : "./assets/projects/dreamdrive_edutech.pdf"
+  },
+  {
+    "name": "Water Awarness",
+    "img_url" : "./assets/projects/water_awareness.jpg",
+    "pdf_url" : "./assets/projects/water_awareness.pdf"
+  }
+]

@@ -1,0 +1,41 @@
+.Footer-column {
+    text-align: center;
+    background: rgba(150, 150, 150, 0.5);
+    padding: 5px;
+    margin: 10px 0 0 0;
+}
+.Footer-links li {
+    padding: 10px 20px 10px 20px;
+    text-align: justify;
+}
+.Footer-links li img {
+    height: 25px;
+    width: 25px;
+}
+.Footer-links {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding-inline-start: 0;
+}
+.icon {
+    font-size: 2em;
+    transition: color 0.3s;
+}
+
+.icon.email {
+    color: #E84F4B;
+}
+
+.icon.linkedin {
+    color: #0077B5;
+}
+
+.icon.instagram {
+    color: #FF0069;
+}
+
+.icon.github {
+    color: #24292F;
+}
+  
